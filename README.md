@@ -1,76 +1,53 @@
-<div align="center">
-  <img src="./assets/profile-hero.svg" alt="Heaaaa profile banner" width="100%" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=&animation=fadeIn&fontSize=80&fontColor=21D0D5">
+  <img src=https://media.giphy.com/media/RMw1DhEAwx5ZK/giphy.gif>
+</p>
 
-### Field notes
+<h2>&nbsp;About Me</h2>
 
-I am Heaaaa, an Actuarial Science student who likes turning fuzzy ideas into useful systems.
+```yaml
+#include <iostream>
+using namespace std;
 
-- I learn best by building.
-- I prefer clear workflows over flashy ones.
-- I spend a lot of time around machine learning, finance, automation, and study tools.
-- I like projects that explain themselves without needing much hand-holding.
+// A new noob in Github
 
-### Snapshot
+string Education()
+{
+    World-Class_Chinese_Independent_High_School=Foon_Yew_High_School;
+    Heriott-Watt University
+}
 
-| Field | Value |
-| --- | --- |
-| Base | Heriot-Watt University |
-| Mode | learning by building |
-| Focus | ML, actuarial science, automation |
-| Favorite output | something another person can actually use |
-| Personal rule | make it smaller, then make it clearer |
+string Interest()
+{
+    string int_1="Sleep";
+    string int_2="Sleep";
+    string int_2="And Sleep";
+}
 
-### Current orbit
+int main()
+{
+  string Name=Heaaaa;
+  int Age=20;
+  string Currently_learning[2]={"ML","Actuarial Science"};
+  return 0;
+}
+```
 
-- `News` - daily news automation with source checking
-- `Doc chat` - document-grounded local AI workflows
-- `Typst notes` - clean study documents and PDF output
-- `Web experiments` - interactive pages and motion-driven ideas
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://user-images.githubusercontent.com/114859711/193462127-fda73695-13e3-4071-b325-2ea90dfe0cef.png" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="php" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="xcode" width="45" height="45"/>
+</p>
 
-### Toolbench
+![Heaaaaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heaaaaaaaa&show_icons=true&theme=radical)
 
-| Tool | Where it shows up |
-| --- | --- |
-| Python | automation, AI glue, small scripts |
-| Typst | study notes and compile-ready documents |
-| JavaScript | browser experiments and front-end ideas |
-| Bash | local launchers and quick helpers |
-| Git / GitHub | versioned work and publishing |
-| Markdown | writing things down so they can be reused |
+<p align="center">
+  <img src=https://media.giphy.com/media/g7GKcSzwQfugw/giphy.gif>
+</p>
 
-### What I am building toward
-
-| Thread | Why it matters |
-| --- | --- |
-| Clearer AI workflows | fewer surprises, better outputs, easier reuse |
-| Better study systems | notes that are readable now and useful later |
-| Smaller tools | simple utilities that solve one job well |
-| Cleaner pages | profiles and projects that feel intentional |
-
-### Working style
-
-1. Start with a rough version.
-2. Strip away what does not help.
-3. Test it on real inputs.
-4. Keep the parts that survive contact with reality.
-
-<details>
-  <summary>Desk drawer</summary>
-
-- I like systems that are quiet, readable, and repeatable.
-- I keep circling back to study workflows, AI helpers, and one-off tools until they feel clean.
-- I would rather have one useful project than ten noisy ones.
-
-</details>
-
-### Links
-
-- GitHub: [github.com/Heaaaaaaaa](https://github.com/Heaaaaaaaa)
-- Featured repo: [News](https://github.com/Heaaaaaaaa/News)
-
-<div align="center">
-
-Built like a notebook, not a billboard.
-
-</div>
+<!---
+Heaaaa/Heaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
