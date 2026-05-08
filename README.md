@@ -8,9 +8,6 @@
 ```yaml
 #include <iostream>
 using namespace std;
-
-// A new noob in Github
-
 string Education()
 {
     World-Class_Chinese_Independent_High_School=Foon_Yew_High_School;
